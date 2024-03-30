@@ -3,12 +3,12 @@
 
   var projectsArray = [
     {
-      id: "projectEyeExercise",
-      url: "https://github.com/tancrescens/eye-movement/?tab=readme-ov-file",
+      id: "projectBadbank",
+      url: "https://github.com/tancrescens/fullstack-bad-bank",
     },
     {
-      id: "projectPacmen",
-      url: "https://github.com/tancrescens/Pacman-Exercise",
+      id: "projectEyeExercise",
+      url: "https://github.com/tancrescens/eye-movement/?tab=readme-ov-file",
     },
     {
       id: "projectPacmen",
