@@ -3,8 +3,16 @@
 
   var projectsArray = [
     {
-      id: "projectSedkodes",
-      url: "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g",
+      id: "projectEyeExercise",
+      url: "https://github.com/tancrescens/eye-movement/?tab=readme-ov-file",
+    },
+    {
+      id: "projectPacmen",
+      url: "https://github.com/tancrescens/Pacman-Exercise",
+    },
+    {
+      id: "projectPacmen",
+      url: "https://github.com/tancrescens/Pacman-Exercise",
     },
     // {
     // 	"id": "projectSedkodes",
