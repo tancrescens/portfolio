@@ -1,4 +1,6 @@
 # portfolio-v2
+Visit it at
+tancrescens.github.io/portfolio/
 
 Personal website, you can visit it at [www.sedky.ca](https://www.sedky.ca).  
 
